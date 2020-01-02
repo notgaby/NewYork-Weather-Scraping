@@ -4,4 +4,4 @@
 My family and were going to New York for winter break and I wanted to create a GUI that told me the weather for the week. I started webscraping last year (senior year of high school) and have not touched it since, so I wanted to brush up on my skills of it. It is a simple webscraper that scrapes from a weather website. I also wanted to learn GUI in Python, and I created a simple program using Tkinter. In the GUI, I have added other buttons to see food and attraction reccomendations, though I did not get to coding that part before the trip. Hopefully in the future I can fully complete the other buttons. 
 
 TLDR; 
-GOAL - Webscrape weather in New York and place the data in a GUI. 
+**GOAL** - Webscrape weather in New York and place the data in a GUI. 
